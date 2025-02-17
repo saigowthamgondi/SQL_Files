@@ -50,3 +50,6 @@ CREATE TABLE [dbo].[Capman_Personnel_Landing](
 --    [ErrorCode] int,
 --    [ErrorColumn] int
 --)
+
+--DROP TABLE [STAGING].[dbo].[tbl_Capman_Personnel]
+--DROP TABLE [RELEASE].[dbo].[tbl_Capman_Personnel]
